@@ -3,7 +3,7 @@
 ## About Me
 
 ### Education:
-Bachelor of Science in Data Science
+Bachelor of Science in Data Science   
 Willamette University expected in May 2026
 
 
