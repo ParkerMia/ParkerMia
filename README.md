@@ -7,9 +7,9 @@ Bachelor of Science in Data Science
 Willamette University expected in May 2026
 
 ### Fields of Interests:
-- Bioinformatics & Health Analytics
 - Environmental Data Analysis & Modeling
 - Applied Machine Learning for Environmental Sustainability
+- Bioinformatics & Health Analytics
 
 ### Hobbies:
 - Crafting! Crochet, needlepoint, cross stitch...
