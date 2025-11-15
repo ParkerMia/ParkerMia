@@ -26,7 +26,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyternotebooks/jupyternotebooks-original.svg" alt="jupyternotebooks" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter-notebooks/jupyter-notebooks-original.svg" alt="jupyternotebooks" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beekeeperstudio/beekeeperstudio-original.svg" alt="beekeeperstudio" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beekeeper-studio/beekeeper-studio-original.svg" alt="beekeeperstudio" width="45" height="45"/>
 </p>
