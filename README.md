@@ -3,7 +3,8 @@
 ## About Me
 
 ### Education:
-Bachelor of Science in Data Science from Willamette University expected in May 2026
+Bachelor of Science in Data Science
+Willamette University expected in May 2026
 
 
 ### Fields of Interests:
@@ -12,13 +13,10 @@ Bachelor of Science in Data Science from Willamette University expected in May 2
 - f
 
 ### Technical Background:
-"DevOps Solutions Architect",
-"Intern - Data Science & Machine Learning in Python",
-"Intern - Internet Of Things",
-"Intern - VLSI and FPGA Implementation",
-currently_learning: ["Docker, Kubernetes and React Native"] 
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
+- "DevOps Solutions Architect",
+- "Intern - Data Science & Machine Learning in Python",
+- "Intern - Internet Of Things",
+- "Intern - VLSI and FPGA Implementation",
 
 ## Tools I Have Used and Learned</h2>
 <p align="left">
