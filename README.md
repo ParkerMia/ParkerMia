@@ -28,6 +28,6 @@ Willamette University expected in May 2026
 <img src="https://raw.githubusercontent.com/ParkerMia/ParkerMia/main/icons/matplotlib2.png" alt="matplotlib" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/ParkerMia/ParkerMia/main/icons/numpy.png" alt="numpy" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/ParkerMia/ParkerMia/main/icons/tidyverse.png" alt="tidyverse" width="45" height="45"/>
-
-
 </p>
+
+### Take a look at my Projects below!
