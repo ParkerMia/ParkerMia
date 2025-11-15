@@ -28,7 +28,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter-notebooks/jupyter-notebooks-original.svg" alt="jupyternotebooks" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/ParkerMia/ParkerMia/main/icons/beekeeper2.png" alt="beekeeperstudio" width="90" height="90"/>
+<img src="https://raw.githubusercontent.com/ParkerMia/ParkerMia/main/icons/beekeeper.png" alt="beekeeperstudio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql" alt="sql" width="45" height="45"/>
 
 </p>
