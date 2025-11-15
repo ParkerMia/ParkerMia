@@ -12,9 +12,9 @@ Willamette University expected in May 2026
 - Applied Machine Learning for Environmental Sustainability
 
 ### Hobbies:
-- "crafting! Crochet, needlepoint, cross stitch..."
-- "horseback riding"
-- "fostering (cats and kittens)"
+- Crafting! Crochet, needlepoint, cross stitch...
+- Horseback Riding
+- Fostering (cats and kittens)
 
 ## Tools I Have Used and Learned:
 <p align="left">
