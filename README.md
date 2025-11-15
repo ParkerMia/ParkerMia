@@ -25,6 +25,6 @@ Willamette University expected in May 2026
 <img src="https://raw.githubusercontent.com/ParkerMia/ParkerMia/main/icons/jupyter.png" alt="jupyternotebooks" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/ParkerMia/ParkerMia/main/icons/beekeeper.png" alt="beekeeperstudio" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/ParkerMia/ParkerMia/main/icons/matplotlib2.png" alt="matplotlib" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/ParkerMia/ParkerMia/main/icons/matplotlib.png" alt="matplotlib" width="45" height="45"/>
 
 </p>
